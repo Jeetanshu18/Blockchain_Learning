@@ -1,0 +1,2 @@
+npx hardhat ------> Create Sample Hardhat Project
+npm install @openzeppelin/contracts ----> Install Openzeppelin Contracts
